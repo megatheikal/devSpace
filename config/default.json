@@ -1,4 +1,5 @@
 {
   "mongoURI": "mongodb+srv://megat123:megat123@devspace-5obku.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubToken": " 125c1b10454ea0c9e322bff87addf0b6b3e9a1a4"
 }
